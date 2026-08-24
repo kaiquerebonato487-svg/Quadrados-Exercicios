@@ -33,7 +33,6 @@ entender o que tá acontecendo.
 | Lógico (Prolog) | 5 | fato/cláusula, unificação de lista, recursão, operador `is` |
 | Funcional (Streams) | 7 | `stream()`, lambda, `map`, `reduce`, `Integer::sum` |
 
-\* sem contar linha em branco, comentário, import e chave sozinha na linha.
 
 O Prolog ganha em número de linhas, mas os conceitos são mais estranhos pra quem só programou
 imperativo. O funcional fica no meio, com conceitos mais familiares. O OO é o mais longo porque paga
