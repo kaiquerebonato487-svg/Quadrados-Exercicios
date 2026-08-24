@@ -1,6 +1,5 @@
 :- encoding(utf8).
 
-
 quadrado_total([], 0).
 
 quadrado_total([Cabeca|Cauda], Total) :-
